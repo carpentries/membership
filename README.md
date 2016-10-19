@@ -1,0 +1,2 @@
+# partners
+Partner resources
