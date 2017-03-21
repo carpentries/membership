@@ -1,2 +1,3 @@
-# partners
-Partner resources
+# Organizational Membership
+
+Resources for organizational members
